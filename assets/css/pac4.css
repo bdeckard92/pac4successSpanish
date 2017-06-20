@@ -1,0 +1,13 @@
+body {
+	background-color: blue;
+}
+.container {
+	background-color: white;
+}
+.donate {
+	margin: 30px;
+}
+
+#header {
+	margin: 20px;
+}
