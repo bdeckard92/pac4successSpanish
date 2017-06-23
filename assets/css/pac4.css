@@ -1,5 +1,5 @@
 body {
-	background-color: blue;
+	background-color: steelblue;
 }
 .container {
 	background-color: white;
@@ -10,4 +10,28 @@ body {
 
 #header {
 	margin: 20px;
+}
+
+.stripe {
+	background-color: steelblue;
+	padding: 4px;
+	text-align: center;
+
+}
+
+iframe {
+	margin-left: 20px;
+}
+
+#navigate{
+	border:none;
+	background:none;
+	outline:none;
+	margin-right: 20px;
+	color:white;
+
+}
+
+.mission {
+	margin: top10px;
 }
