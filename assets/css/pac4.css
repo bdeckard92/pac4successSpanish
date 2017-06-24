@@ -19,6 +19,13 @@ body {
 
 }
 
+.bottom {
+	margin: 5px;
+	background-color: steelblue;
+	padding: 4px;
+	text-align: center;
+}
+
 iframe {
 	margin-left: 20px;
 }
