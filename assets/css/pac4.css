@@ -20,7 +20,7 @@ body {
 }
 
 .bottom {
-	margin: 5px;
+	margin-top: 5px;
 	background-color: steelblue;
 	padding: 4px;
 	text-align: center;
@@ -37,6 +37,23 @@ iframe {
 	margin-right: 20px;
 	color:white;
 
+}
+
+h5 {
+	color:white;
+}
+
+.email {
+	color:white;
+}
+
+.social {
+	margin-right: 10px;
+	margin-left: 10px;
+	
+	font-size: 48px;
+	color:white;
+	
 }
 
 .mission {
