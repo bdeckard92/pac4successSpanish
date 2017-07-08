@@ -6,6 +6,7 @@ body {
 }
 .donate {
 	margin: 30px;
+	box-shadow: 10px 10px 5px #888888;
 }
 
 #header {
@@ -30,6 +31,7 @@ body {
 #apply {
 	color: white;
 	text-align: center;
+	box-shadow: 10px 10px 5px #888888;
 }
 
 #history {
@@ -56,14 +58,20 @@ h5 {
 iframe, img {
 	box-shadow: 10px 10px 5px #888888;
 }
+
+
+
+
 .social {
 	margin-right: 10px;
 	margin-left: 10px;
 	
 	font-size: 48px;
 	color:white;
-	
 }
+	
+
+
 
 .mission {
 	margin: top10px;
